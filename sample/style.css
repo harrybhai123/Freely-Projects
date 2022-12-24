@@ -3,6 +3,11 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .heading {
   font-size: 48px;
   color: #2e7ad3;
