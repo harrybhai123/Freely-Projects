@@ -1,1 +1,1 @@
-# Freely-Projects
+# Freely Projects
